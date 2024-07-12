@@ -1,0 +1,1 @@
+![RULE](./resources/images/rule.jpg)
